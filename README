@@ -1,0 +1,8 @@
+* SharePoint - All Checked Out Documents webpart
+
+This is a SharePoint webpart that displays all documents that are checked-out by going through every sub-site's document library/libraries
+
+
+** Usage
+
+Webpart needs to be edited to contain SharePoint site GUID and SharePoint base URL
